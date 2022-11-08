@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972323523265",
+    "project_id": "rockspotapp",
+    "storage_bucket": "rockspotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972323523265:android:88e28a6fa1496738f6e240",
+        "android_client_info": {
+          "package_name": "com.example.rockspot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972323523265-9jel45dq1pn3teshd17f7r2gmhuqk1e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJjKtSdcNxMqf-jwMVByWFhfJbB-zl4DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972323523265-9jel45dq1pn3teshd17f7r2gmhuqk1e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
